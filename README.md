@@ -62,11 +62,6 @@ Construyo productos con IA que la gente usa de verdad: asistentes conversacional
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=axelsmith11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true&locale=es" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelsmith11&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8&locale=es" alt="langs"/>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=axelsmith11&theme=tokyonight&hide_border=true&background=00000000&locale=es" alt="streak"/>
 
 </div>
