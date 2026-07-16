@@ -62,7 +62,7 @@ Construyo productos con IA que la gente usa de verdad: asistentes conversacional
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=axelsmith11&theme=tokyonight&hide_border=true&background=00000000&locale=es" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=axelsmith11&theme=tokyonight&hide_border=true&locale=es" alt="streak"/>
 
 </div>
 
