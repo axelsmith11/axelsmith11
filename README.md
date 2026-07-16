@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Banner animado de texto -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Axel+Mestanza+%F0%9F%91%8B;Fullstack+Developer+%7C+AI+Builder;Ingeniero+de+Requisitos;De+la+idea+al+producto+en+producci%C3%B3n" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Axel+Mestanza+%F0%9F%91%8B;Fullstack+Developer+%7C+AI+Builder;Creador+de+Audix+AI;Hackathons%3A+BCP+%C2%B7+IDEATECH+PYME;De+la+idea+al+producto+en+producci%C3%B3n" alt="Typing SVG" />
 
 <br/>
 
 **Product Engineer @ KOMU AI** · Lima, Perú 🇵🇪
 
-Construyo productos con IA que la gente usa de verdad: asistentes conversacionales, plataformas de estudio con RAG y automatizaciones que ahorran horas.
+Creador de **Audix AI** 🎧 — plataforma de estudio con IA y RAG. Construyo productos con IA en producción como **Pablo** ([usapablo.com](https://usapablo.com)) y compito en hackatones (BCP, IDEATECH PYME).
 
 <br/>
 
@@ -27,7 +27,7 @@ Construyo productos con IA que la gente usa de verdad: asistentes conversacional
 | Proyecto | Qué es | Stack | Demo |
 |---|---|---|---|
 | 🎧 **Audix AI** | Plataforma de estudio con IA: transcribe, traduce y convierte audio/video/PDF en conocimiento, con chat contextual (**RAG**) | Whisper · GPT-4 · Supabase · Google Cloud · FFmpeg | [Ver demo](https://komu-flow-magic.lovable.app/) |
-| 💬 **Pablo** | Asistente financiero por WhatsApp con lenguaje natural — **+500 usuarios activos** | n8n · Supabase · Firebase · GCP | @ KOMU AI |
+| 💬 **Pablo** | Asistente financiero por WhatsApp con lenguaje natural — **+500 usuarios activos** | n8n · Supabase · Firebase · GCP | [usapablo.com](https://usapablo.com) |
 | 📣 **BarrioVoz** | Civic-tech: convierte quejas vecinales en propuestas accionables con IA — *Hackathon BCP 2026* | TypeScript · IA generativa | [Ver demo](https://voz-de-barrio.lovable.app) |
 | 🚚 **Rumbi** | Red logística colaborativa para pymes de Lima: rutas compartidas con evidencia digital — *IDEATECH PYME (ESAN·CESAL·OIM)* | TypeScript · Optimización de rutas | [Ver demo](https://pack-pal-routes.lovable.app) |
 
